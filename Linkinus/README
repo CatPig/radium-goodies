@@ -1,0 +1,11 @@
+This is a "now-playing" plugin for the Linkinus IRC client.
+
+To install:
+
+  1) Copy the radium script file to:
+     ~/Library/Application Support/Linkinus 2/Scripts/
+
+  2) Type "/radium" in the Linkinus IRC textbox and press Enter
+
+Files in this directory were contributed by Don Jones from New Element
+Designs (http://www.newelementdesigns.com).
