@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Script to display currently playing song from Radium.</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.schinckel.AppName.scripts</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>%_radium</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>Scripts</key>
+	<array>
+		<dict>
+			<key>File</key>
+			<string>NowPlayingInRadium</string>
+			<key>Keyword</key>
+			<string>/radium</string>
+			<key>Title</key>
+			<string>Now Playing In Radium</string>
+		</dict>
+	</array>
+	<key>Set</key>
+	<string>Script Submenu</string>
+</dict>
+</plist>
